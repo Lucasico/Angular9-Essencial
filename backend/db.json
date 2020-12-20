@@ -1,0 +1,24 @@
+{
+  "product": [
+    {
+      "id": 2,
+      "name": "Papel",
+      "price": 6.89
+    },
+    {
+      "id": 3,
+      "name": "Tesoura",
+      "price": 7.95
+    },
+    {
+      "name": "Sansung A71",
+      "price": "1855.00",
+      "id": 7
+    },
+    {
+      "name": "notebook",
+      "price": "3750.0",
+      "id": 8
+    }
+  ]
+}
